@@ -14,4 +14,7 @@ packrat/lib*/
 .Rproj.user
 
 #Environment
-.Renviron#Profile.Rprofile
+.Renviron
+
+#Profile
+.Rprofile
