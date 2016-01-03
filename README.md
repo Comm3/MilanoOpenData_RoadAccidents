@@ -1,26 +1,14 @@
 # Milano Open Data RoadAccidents
-Main goal of this project is to use the open data provided by the municipality of Milan (Italy) and predict the daily road accidents by considering the weather and traffic.
-
-#Overview
-
 The municipality of Milan did recently partecipate to the Open Data project, making available to the community a moltitude of data. One of these is the number of monthly road accidents. As a Milanese, I see everytime that is raining how the risk of driving accidents increase: the number of cars in the roads increase, drivers get mad and the streets become so slippery that you can get to work as if you are in a [gymkhana](https://www.youtube.com/watch?v=LuDN2bCIyus).
-So it seemed natural to ask myself if there is a correlation between accidents, traffic and weather. And *Machine Learning* is quite suitable to solve this kind of problem.
-
-Following To find an answer to this question I built a system in R
-
-that you can slide on it! So I asked my self: is there actually a correlation between driving  Machine learning can help me to predict this  But what I don't actuall
-know that there is correlation between driving, weather and accidents.
-Due to the relevance of the information, it has been used as *output* variable, so the one to predict. 
-
-Given the output variable, there is the need to find teh input variables. Living here, taught   As a city  Knowing the city (since I live here), I kno It had to bee put in relation with other variables,
+So it seemed natural to ask myself if there is a correlation between traffic, weather and accidents. And *Machine Learning* is quite suitable to solve this kind of problem.
 
 #The Language
 For this project it has been used the [R](https://www.r-project.org/) language
 
 #The Data
 
-##The Area C entries
-This 
+##The Traffic - Entries into the Area C
+The traffic is measured by considering the number of access into the *Area C*, which is the *restricted area traffic* representing the heart of the city.
 
 ##Milan's Open Data
 The data used for training the prediction model is provided by the municipality of Milan trough it's Open Data project:
